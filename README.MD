@@ -30,7 +30,7 @@
 
 ### 函数
 
-- [ref](./function/ref.md)
+- [ref和out](./function/ref.md)
 - [params](./function/params.md)
 - [委托(delegate)](./function/delegate.md)
 
@@ -42,13 +42,12 @@
 ### 面向对象
 
 - [类定义](./class/class.md)
-- [类成员](./class/member.md)
 - [静态构造函数](./class/static_fun.md)
 - [接口](./class/interface.md)
-- [多态](./class/poly.md)
 - [继承](./class/inherit.md)
 - [静态类](./class/static_class.md)
 - [属性](./class/property.md)
+- [声明对象](./class/obj.md)
 
 ### 集合比较和转换
 
