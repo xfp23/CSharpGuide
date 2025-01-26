@@ -13,14 +13,12 @@
 
 ### C# 编程概述
 
+- [关键字](./Overview/keyword.md)
 - [变量类型](./Overview/varType.md)
-- [字符串的处理](./Overview/string.md)
 
 ### 流程控制
 
-- [switch 语句](./proce_crol/switch.md)
-- [if 语句](./proce_crol/if.md)
-- [三元表达式](./proce_crol/three_var.md)
+- [流程控制](./proce_crol/ct.md)
 
 ### 变量的更多内容
 
