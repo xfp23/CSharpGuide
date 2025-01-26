@@ -59,7 +59,7 @@
 
 # 上位机开发部分
 
-## 什么是[`WPF`](./pcsoftware/wpf/wpf.md))?
+## 什么是[`WPF`](./pcsoftware/wpf/wpf.md)?
 
 
 ## `XAML`标记语言
